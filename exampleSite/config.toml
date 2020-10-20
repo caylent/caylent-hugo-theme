@@ -6,7 +6,7 @@ paginate = 3
 
 googleAnalytics = "Yout Google Analytics ID"
 
-theme = "minimage"
+theme = "caylent-hugo-theme"
 
 [params]
   description = "Your site description"

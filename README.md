@@ -30,5 +30,10 @@ To create a new blog post, run:
 $ hugo new post/your-post-name.md
 ```
 
+## Test the theme while adding changes
+```
+hugo server -s exampleSite --themesDir=../..
+```
+
 ## License
 This theme is released under the [MIT license](https://github.com/caylent/blob/master/LICENSE.md)
